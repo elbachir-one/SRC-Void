@@ -12,7 +12,7 @@ Note: Make sure that you have git.
 
 2. Change directory to Void packages.
 
-`$ cd void-packages`
+`$ cd void-packages/`
 
 
 3. Bootstrap the binary.
